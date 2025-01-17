@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+    width: 90%;
+    /* border: 1px, solid, red; */
+    font-family: sans-serif;
+    background-color: rgb(200, 200, 200);
+}
+
+h1 {
+    padding: 1rem;
+}
+
+main {
+    flex-direction: column;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: white;
+    font-size: 1rem;
+    width: 100px;
+    padding: 1rem;
+    border-radius: 30px;
+    border: 0;
+}
