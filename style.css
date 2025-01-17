@@ -27,3 +27,7 @@ button {
     border-radius: 30px;
     border: 0;
 }
+
+button:hover {
+    background-color: rgb(180, 180, 180);
+}
