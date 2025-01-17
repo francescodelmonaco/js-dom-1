@@ -17,6 +17,7 @@ main {
 .flex-center {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 button {
@@ -26,8 +27,14 @@ button {
     padding: 1rem;
     border-radius: 30px;
     border: 0;
+    margin: 2rem;
 }
 
 button:hover {
     background-color: rgb(180, 180, 180);
+}
+
+img {
+    width: 30%;
+    margin: 2rem;
 }
